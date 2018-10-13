@@ -1,6 +1,6 @@
 import os
 
-from flask import Flask
+from flask import *
 
 def create_app(test_config=None):
     # create and configure the app
@@ -23,8 +23,16 @@ def create_app(test_config=None):
         pass
 
     # a simple page that says hello
-    @app.route('/hello')
-    def hello():
-        return 'Hello, World!'
+    @app.route('/')
+    def home():
+        return render_template('index.html')
+
+    @app.route('/food')
+    def food_pantries():
+        return render_template('food.html')
+
+    @app.route('/dmv')
+    def dmv():
+        return redner_template('dmv.html')
 
     return app
