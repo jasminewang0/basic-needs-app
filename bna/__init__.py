@@ -9,6 +9,8 @@ def create_app(test_config=None):
         SECRET_KEY='c0de4g00d',
     )
 
+    from . import db
+
     if test_config is None:
         # load the instance config, if it exists, when not testing
         app.config.from_pyfile('config.py', silent=True)
@@ -24,15 +26,19 @@ def create_app(test_config=None):
 
     # a simple page that says hello
     @app.route('/')
-    def home():
+    def home(): 
         return render_template('index.html')
 
+    @app.route('/childcare')
+    def childcare():
+        return render_template('results.html')
+
     @app.route('/food')
-    def food_pantries():
-        return render_template('food.html')
+    def food():
+        return render_template('results.html')
 
     @app.route('/dmv')
     def dmv():
-        return redner_template('dmv.html')
+        return redner_template('results.html')
 
     return app
