@@ -108,9 +108,11 @@ categories = [Category('childcare',childcare),
               Category('miscellaneous', miscellaneous)
              ]
 
+
 for cat in categories:
     dat = ' '.join(cat.raw_data.split())
-    agencies = re.findall(r'(?<=ress:)[^:]+',dat)
+    print dat
+    agencies = re.findall(r'(?<=me)[ ]*: [a-zA-Z -0-9]+',dat)
     cat.agencies = [Agency(' '.join(ag.split()[:-1])) for ag in agencies]
 
 d = db.Database()
@@ -119,13 +121,15 @@ cnt = 0
 for cat in categories:
     print cat.name
     for ag in cat.agencies:
-            cnt += 1
-            if(cnt > 11):
-                print cat.name+'_'+ ag.name.split()[0]
-                try:
-                    d.create(agency_ID= cat.name+'_'+ag.name.split()[0], category=cat.name, address=ag.name)
-                except:
-                    d.create(agency_ID= cat.name+'_'+str(random.randrange(256)), category=cat.name, address=ag.name)
+        pass
+        # print ag.name
+            # cnt += 1
+            # if(cnt > 11):
+            #     print cat.name+'_'+ ag.name.split()[0]
+            #     try:
+            #         d.create(agency_ID= cat.name+'_'+ag.name.split()[0], category=cat.name, address=ag.name)
+            #     except:
+            #         d.create(agency_ID= cat.name+'_'+str(random.randrange(256)), category=cat.name, address=ag.name)
 
 
 
