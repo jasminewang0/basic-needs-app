@@ -1,8 +1,17 @@
 <!doctype html>
-<title>Basic Needs</title>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
+    <title>Basic Needs App</title>
+  </head>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#">Basic Needs App</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -11,12 +20,66 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
+        <div class="dropdown-menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 42px, 0px);">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Separated link</a>
+        </div>
+      </li>
+      <!-- <li class="nav-item childcare">
+        <a class="nav-link" href="#">Childcare/Youth Services <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item clothing">
+        <a class="nav-link" href="#">Clothing <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item education">
+        <a class="nav-link" href="#">Education/Training <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item employment">
+        <a class="nav-link" href="#">Employment <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item financial">
+        <a class="nav-link" href="#">Financial Assistance <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item food">
+        <a class="nav-link" href="#">Food/Nutrition Assistance <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item handicapped">
+        <a class="nav-link" href="#">Handicapped/Disabled Services <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item housing">
+        <a class="nav-link" href="#">Housing/Home Ownership <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item legal">
+        <a class="nav-link" href="#">Legal Aid <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item medical">
+        <a class="nav-link" href="#">Medical Care <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item business">
+        <a class="nav-link" href="#">Starting a Small Business <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item transportation">
+        <a class="nav-link" href="#">Transportation <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item miscellaneous">
+        <a class="nav-link" href="#">Miscellaneous/Other Services <span class="sr-only">(current)</span></a>
+      </li> -->
+    </ul>
   </div>
 </div>
 </nav>
 
-
-<!-- Footer -->
-<footer>
-  <p>Hello</p>
-</footer>
+<body>
+  <div id="content">{% block content %}{% endblock %}</div>
+  <!-- Footer -->
+  <footer>
+    {% block footer %}
+    <p>HackDuke 2018 | Surya, Vishy, Jasmine</p>
+    {% endblock %}
+  </footer>
+</body>
