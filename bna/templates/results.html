@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block head %}
+    {{ super() }}
+{% endblock %}
+{% block content %}
+    {% if name %}
+    <h1>{{name}}</h1>
+    {% endif %}
+
+    <div id="directions">
+    </div>
+
+    <script type="text/javascript">
+      var xmlHttp = new XMLHttpRequest();
+      xmlHttp.onreadystatechange = function() {
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
+          var location = JSON.parse(xmlHttp.responseText);
+          document.getElementById("directions").innerHTML = "<iframe width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/directions?key=AIzaSyDvsONygj5EuKTvRMA_NvPDBTH2K4LGNu4&destination=Vi%C5%9Fnezade%20Mahallesi%2C%20BJK%20Vodafone%20Park%2C%20Be%C5%9Fikta%C5%9F%2FIstanbul%2C%20Turkey&origin=" + location.city + "+" + location.region + "&mode=flying\"allowfullscreen></iframe>";
+        }
+      }
+      xmlHttp.open("GET", "https://ipapi.co/json/", true); // true for asynchronous
+      xmlHttp.send(null);
+    </script>
+{% endblock %}

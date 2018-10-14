@@ -1,1 +1,18 @@
 {% extends 'base.html' %}
+{% block head %}
+    {{ super() }}
+{% endblock %}
+{% block content %}
+    <h1>Wake County Basic Needs Resources</h1>
+    <h2>Overview</h2>
+    <p>
+      This is the homepage of our application. We are trying to connect Wake County
+      residents with basic needs resources from their location via public transportation.
+      We have parsed the <a href="https://www.ncworks.gov/admin/gsipub/htmlarea/uploads/CRAG/Wake_County_(Raleigh_LO).pdf">
+      Wake County Community Resource Guide</a>, loaded it into a database, and will show you how
+      to get to certain resources through local public transportation with Google Maps.
+    </p>
+    <p>
+      Choose a category from the dropdown above to get started!
+    </p>
+{% endblock %}
