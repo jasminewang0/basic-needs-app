@@ -2,6 +2,8 @@
 # importing required modules
 import PyPDF2
 import re
+import db
+import random
 
 class Category:
 
@@ -19,7 +21,7 @@ class Agency:
         self.desc = ''
 
 # creating a pdf file object
-pdfFileObj = open('Wake_County_resources_2017.pdf', 'rb')
+pdfFileObj = open('../Wake_County_resources_2017.pdf', 'rb')
 
 # creating a pdf reader object
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -111,10 +113,20 @@ for cat in categories:
     agencies = re.findall(r'(?<=ress:)[^:]+',dat)
     cat.agencies = [Agency(' '.join(ag.split()[:-1])) for ag in agencies]
 
+d = db.Database()
+
+cnt = 0
 for cat in categories:
     print cat.name
     for ag in cat.agencies:
-        print ag.name
+            cnt += 1
+            if(cnt > 11):
+                print cat.name+'_'+ ag.name.split()[0]
+                try:
+                    d.create(agency_ID= cat.name+'_'+ag.name.split()[0], category=cat.name, address=ag.name)
+                except:
+                    d.create(agency_ID= cat.name+'_'+str(random.randrange(256)), category=cat.name, address=ag.name)
+
 
 
 

@@ -9,12 +9,13 @@ class Database:
     FIELDS = ['category', 'agency_name', 'address', 'phone', 'website', 'services']
 
     def __init__(self):
-        self.cred = credentials.Certificate('basic-needs-app-firebase-adminsdk-d4iio-09b7d4746f.json')
+        self.cred = credentials.Certificate('/home/vishy/Git/basic-needs-app/bna/basic-needs-app-firebase-adminsdk-d4iio-09b7d4746f.json')
         self.default_app = firebase_admin.initialize_app(self.cred, {'databaseURL': 'https://basic-needs-app.firebaseio.com'})
         self.ref = db.reference('agencies')
 
     # creates a new entry. will overwrite an entry if it already exists
-    def create(self, agency_ID, category, agency_name, address, phone, website, services):
+    def create(self, agency_ID=None, category=None, agency_name=None, address=None,
+               phone=None, website=None, services=None):
         agency_ref = self.ref.child(agency_ID)
         agency_ref.set({
 
@@ -28,9 +29,9 @@ class Database:
         })
 
     # returns (dictionary?) representation of an entry
-    def read(self, agency_ID):
-        agency_ref = self.ref.child(agency_ID)
-        return agency_ref.get()
+    def read(self, query):
+        snapshot = self.ref.order_by_child('category').equal_to(query).get()
+        return snapshot.values()
 
     # update an existing entry. pass in agency_ID and a dictionary of fields and values to update with
     def update(self, agency_ID, fields):
