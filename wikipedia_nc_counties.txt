@@ -1,0 +1,212 @@
+==List==
+{| class="wikitable sortable" cellpadding="1"  style="margin:auto; border:#88a; background:#f7f8ff; padding:5px; font-size:95%; text-align:center;"
+|- style="background:#ccf;"
+! style="vertical-align: bottom;"|County<br />
+! style="vertical-align: bottom; width: 65px;" | FIPS code<br /><ref name="EPA"/>
+! style="vertical-align: bottom; width: 75px;" | [[County seat]]<br /><ref name="NACO">{{cite web|url=http://www.uscounties.org/cffiles_web/counties/state.cfm?statecode=nc&#PAGETOP|title=NACo – Find a county|work=National Association of Counties|deadurl=no|archiveurl=https://web.archive.org/web/20111211201415/http://www.uscounties.org/cffiles_web/counties/state.cfm?statecode=nc&#PAGETOP|archivedate=December 11, 2011|df=mdy-all}}</ref>
+! style="vertical-align: bottom; width: 50px;" | Created<br /><ref name="NACO"/>
+! style="vertical-align:bottom;"| Origin<br /><ref name="Ety">{{cite web|url=http://ncpedia.org/geography/counties|title=County Histories|accessdate=2011-08-31|work=The State Library of North Carolina|deadurl=no|archiveurl=https://web.archive.org/web/20110825231229/http://ncpedia.org/geography/counties|archivedate=August 25, 2011|df=mdy-all}}</ref>
+! style="vertical-align:bottom;" class="unsortable"|Etymology<br /><ref name="Ety"/>
+! style="vertical-align: bottom; width: 75px;" | Population<br />(2011 estimate)<ref name="2010 Census">{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST05&prodType=table|title=2010 Census|work=U.S. Census Bureau|accessdate=2011-03-02|deadurl=no|archiveurl=https://web.archive.org/web/20110520164442/http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST05&prodType=table|archivedate=May 20, 2011|df=mdy-all}}</ref>
+! style="vertical-align: bottom; width: 75px;" | Area<br /><ref name="NACO"/><ref>{{cite web|url=http://quickfacts.census.gov/qfd/maps/north_carolina_map.html|title=North Carolina QuickFacts|work=U.S. Census Bureau|accessdate=2008-02-06|deadurl=yes|archiveurl=https://web.archive.org/web/20130403175255/http://quickfacts.census.gov/qfd/maps/north_carolina_map.html|archivedate=April 3, 2013|df=mdy-all}} (2000 Census)</ref>
+! style="vertical-align: bottom; width: 154px;" class="unsortable"|Map<br />
+{{Countyrow|N=37|Num=001|Name=Alamance|Seat=Graham|Data2=1849|Data4=The [[Battle of Alamance]] which was derived from the local Indian word meaning "blue [[clay]]" found in the [[Great Alamance Creek]]|Area=435|Population=153291|Data3=Orange County}}
+
+{{Countyrow|N=37|Num=003|Name=Alexander|Seat=Taylorsville|Data2=1847|Data4=William J. Alexander, member of the legislature and [[Speaker of the North Carolina House of Representatives|Speaker of the North Carolina House of Commons]]|Area=263|Population=37087|Data3=Caldwell County, Iredell County, and Wilkes County}}
+
+{{Countyrow|N=37|Num=005|Name=Alleghany|Seat=Sparta|Data2=1859|Data4=Derived from a corruption of the [[Lenape|Delaware Indian]] name for the [[Allegheny River|Allegheny]] and [[Ohio River]]s and is said to have meant "a fine stream"|Area=236|Population=11052|Data3=Ashe County}}
+
+{{Countyrow|N=37|Num=007|Name=Anson|Seat=Wadesboro|Data2=1750|Data4=[[George Anson, 1st Baron Anson|George, Lord Anson]] <small>(1697–1762)</small>, a celebrated English admiral who [[George Anson's voyage around the world|circumnavigated the globe]]|Area=537|Population=26143|Data3=Bladen County}}
+
+{{Countyrow|N=37|Num=009|Name=Ashe|Seat=Jefferson|Data2=1799|Data4=[[Samuel Ashe (1725-1813)|Samuel Ashe]] <small>(1725–1813)</small>, a [[American Revolutionary War|Revolutionary]] patriot, superior court judge, and [[List of Governors of North Carolina|governor of North Carolina]]|Area=427|Population=27143|Data3=Wilkes County}}
+
+{{Countyrow|N=37|Num=011|Name=Avery|Seat=Newland|Data2=1911|Data4=[[Waightstill Avery]] <small>(1741–1821)</small>, a soldier of the [[American Revolutionary War|Revolution]] and [[Attorney General of North Carolina]]|Area=247|Population=17572|Data3=Caldwell County, Mitchell County, and Watauga County}}
+
+{{Countyrow|N=37|Num=013|Name=Beaufort|Seat=Washington|Data2=1712|Data4=[[Henry Somerset, Duke of Beaufort]], who in 1709 became one of the [[Lords Proprietor]]|Area=959|Population=47691|Data3=[[Bath County, North Carolina|Bath County]]}}
+
+{{Countyrow|N=37|Num=015|Name=Bertie|Seat=Windsor|Data2=1722|Data4=James or [[Henry Bertie (proprietor)|Henry Bertie]], two [[Lords Proprietor]] of [[Province of Carolina|colonial North Carolina]]|Area=741|Population=20874|Data3=Chowan County}}
+
+{{Countyrow|N=37|Num=017|Name=Bladen|Seat=Elizabethtown|Data2=1734|Data4=Martin Bladen, a member of the [[Board of Trade]]|Area=887|Population=35190|Data3=New Hanover County}}
+
+{{Countyrow|N=37|Num=019|Name=Brunswick|Seat=Bolivia|Data2=1764|Data4=[[George I of Great Britain]] <small>(1660–1727)</small>, Duke of [[Duchy of Brunswick and Lüneburg|Brunswick and Lüneburg]]|Area=860|Population=110097|Data3=Bladen County and New Hanover County}}
+
+{{Countyrow|N=37|Num=021|Name=Buncombe|Seat=Asheville|Data2=1791|Data4=Edward Buncombe, a [[American Revolutionary War|Revolutionary]] soldier, who was wounded and captured at the [[Battle of Germantown]], and died a paroled prisoner in [[Philadelphia]]|Area=660|Population=241419|Data3=Burke County and Rutherford County}}
+
+{{Countyrow|N=37|Num=023|Name=Burke|Seat=Morganton|Data2=1777|Data4=[[Thomas Burke (governor)|Thomas Burke]] <small>(1747–1783)</small>, a member of the [[Continental Congress]] and [[governor of North Carolina]]|Area=515|Population=90904|Data3=Rowan County}}
+
+{{Countyrow|N=37|Num=025|Name=Cabarrus|Seat=Concord|Data2=1792|Data4=[[Stephen Cabarrus]] <small>(1754–1808)</small>, member of the legislature and [[Speaker of the North Carolina House of Representatives|Speaker of the North Carolina House of Commons]]|Area=365|Population=181468|Data3=Mecklenburg County}}
+
+{{Countyrow|N=37|Num=027|Name=Caldwell|Seat=Lenoir|Data2=1841|Data4=[[Joseph Caldwell]] <small>(1773–1835)</small>, the first president of the [[University of North Carolina at Chapel Hill|University of North Carolina]]|Area=474|Population=82395|Data3=Burke County and Wilkes County}}
+
+{{Countyrow|N=37|Num=029|Name=Camden|Seat=Camden|Data2=1777|Data4=[[Charles Pratt, 1st Earl Camden]] <small>(1714–1794)</small>, who opposed the [[Stamp Act 1765|taxation]] of the American [[Thirteen Colonies|colonists]]|Area=306|Population=10014|Data3=Pasquotank County}}
+
+{{Countyrow|N=37|Num=031|Name=Carteret|Seat=Beaufort|Data2=1722|Data4=[[John Carteret, 2nd Earl Granville]] <small>(1690–1763)</small>, who inherited one-eighth share in the [[Province of Carolina]] through his great-grandfather [[George Carteret]]|Area=1341|Population=67373|Data3=Craven County}}
+
+{{Countyrow|N=37|Num=033|Name=Caswell|Seat=Yanceyville|Data2=1777|Data4=[[Richard Caswell]] <small>(1729–1789)</small>, member of the first [[Continental Congress]] and first [[governor of North Carolina]] after the [[United States Declaration of Independence|Declaration of Independence]]|Area=428|Population=23403|Data3=Orange County}}
+
+{{Countyrow|N=37|Num=035|Name=Catawba|Seat=Newton|Data2=1842|Data4=[[Catawba (tribe)|Catawba]] Indians|Area=414|Population=154181|Data3=Lincoln County}}
+
+{{Countyrow|N=37|Num=037|Name=Chatham|Seat=Pittsboro|Data2=1771|Data4=[[William Pitt, 1st Earl of Chatham]] <small>(1708–1778)</small>, Secretary of State during the [[French and Indian War]] and was later [[Prime Minister of the United Kingdom|Prime Minister of Great Britain]]|Area=709|Population=64195|Data3=Orange County}}
+
+{{Countyrow|N=37|Num=039|Name=Cherokee|Seat=Murphy|Data2=1839|Data4=[[Eastern Band of Cherokee Indians|Cherokee]] Indians|Area=497|Population=27194|Data3=Macon County}}
+
+{{Countyrow|N=37|Num=041|Name=Chowan|Seat=Edenton|Data2=1668|Data4=[[Chowanoke|Chowan]] Indian tribe||Area=233|Population=14831|Data3=[[Albemarle County, North Carolina|Albemarle County]]}}
+
+{{Countyrow|N=37|Num=043|Name=Clay|Seat=Hayesville|Data2=1861|Data4=[[Henry Clay]] <small>(1777–1852)</small>, statesman and [[orator]] who represented [[Kentucky]] in both the [[United States House of Representatives|House of Representatives]] and [[United States Senate|Senate]]|Area=221|Population=10563|Data3=Cherokee County}}
+
+{{Countyrow|N=37|Num=045|Name=Cleveland|Seat=Shelby|Data2=1841|Data4=[[Benjamin Cleveland]] <small>(1738–1806)</small>, a colonel in the [[American Revolutionary War]] who took part in the [[Battle of Kings Mountain]]|Area=469|Population=97489|Data3=Lincoln County and Rutherford County}}
+
+{{Countyrow|N=37|Num=047|Name=Columbus|Seat=Whiteville|Data2=1808|Data4=[[Christopher Columbus]] <small>(1451–1507)</small>, [[navigator]], [[explorer]], and one of the first Europeans to explore the Americas|Area=954|Population=57712|Data3=Bladen County and Brunswick County}}
+
+{{Countyrow|N=37|Num=049|Name=Craven|Seat=New Bern|Data2=1705|Data4=[[William Craven, 1st Earl of Craven (1608–1697)|William, Earl of Craven]] <small>(1608–1697)</small>, who was a [[Lords Proprietor]] of [[Province of Carolina|colonial North Carolina]]|Area=774|Population=104786|Data3=[[Bath County, North Carolina|Bath County]]}}
+
+{{Countyrow|N=37|Num=051|Name=Cumberland|Seat=Fayetteville|Data2=1754|Data4=[[Prince William, Duke of Cumberland]] <small>(1721–1765)</small>, a military leader and son of [[George II of Great Britain|George II]]|Area=658|Population=324885|Data3=Bladen County}}
+
+{{Countyrow|N=37|Num=053|Name=Currituck|Seat=Currituck|Data2=1668|Data4=Traditionally said to be an [[Native Americans in the United States|Indian]] word for wild [[Goose|geese]], also rendered "Coratank"|Area=526|Population=23955|Data3=[[Albemarle County, North Carolina|Albemarle County]]}}
+
+{{Countyrow|N=37|Num=055|Name=Dare|Seat=Manteo|Data2=1870|Data4=[[Virginia Dare]] <small>(b. 1587)</small>, the first child born of English parents in [[United States|America]]|Area=1562|Population=34307|Data3=Currituck County, Hyde County, and Tyrrell County}}
+
+{{Countyrow|N=37|Num=057|Name=Davidson|Seat=Lexington|Data2=1822|Data4=[[William Lee Davidson]] <small>(1746–1781)</small>, an [[American Revolutionary War]] general who was mortally wounded at [[Battle of Cowan's Ford|Cowan's Ford]]|Area=567|Population=162695|Data3=Rowan County}}
+
+{{Countyrow|N=37|Num=059|Name=Davie|Seat=Mocksville|Data2=1836|Data4=[[William Richardson Davie]] <small>(1756–1820)</small>, a member of the [[Philadelphia Convention|Federal Convention]] and [[governor of North Carolina]]|Area=267|Population=41552|Data3=Rowan County}}
+
+{{Countyrow|N=37|Num=061|Name=Duplin|Seat=Kenansville|Data2=1750|Data4=[[Thomas Hay, 9th Earl of Kinnoull|Thomas Hay, Viscount Dupplin]] <small>(1710–1787)</small>, who was the 9th [[earl of Kinnoull]]|Area=819|Population=59542|Data3=New Hanover County}}
+
+{{Countyrow|N=37|Num=063|Name=Durham|Seat=Durham|Data2=1881|Data4=The city of [[Durham, North Carolina|Durham]] which was named in honor of Dr. [[Bartlett Snipes Durham]] who donated the land on which the railroad station was located|Area=298|Population=273392|Data3=Orange County and Wake County}}
+
+{{Countyrow|N=37|Num=065|Name=Edgecombe|Seat=Tarboro|Data2=1741|Data4=[[Richard Edgcumbe, 1st Baron Edgcumbe]] <small>(1680–1758)</small>, a [[Lord High Treasurer]] and [[Paymaster-General]] for Ireland|Area=507|Population=56041|Data3=Bertie County}}
+
+{{Countyrow|N=37|Num=067|Name=Forsyth|Seat=Winston-Salem|Data2=1849|Data4=[[Benjamin Forsyth]] <small>(d. 1814)</small>, an American officer during the [[War of 1812]]|Area=413|Population=354952|Data3=Stokes County}}
+
+{{Countyrow|N=37|Num=069|Name=Franklin|Seat=Louisburg|Data2=1779|Data4=[[Benjamin Franklin]] <small>(1706–1790)</small>, an author, politician, [[wikt:statesman|statesman]], and [[Founding Fathers of the United States|Founding Father]] of the United States|Area=495|Population=61140|Data3=[[Bute County, North Carolina|Bute County]]}}
+
+{{Countyrow|N=37|Num=071|Name=Gaston|Seat=Gastonia|Data2=1846|Data4=[[William Gaston]] <small>(1778–1844)</small>, a [[United States House of Representatives|United States Congressman]] and justice of the [[North Carolina Supreme Court]]|Area=364|Population=207031|Data3=Lincoln County}}
+
+{{Countyrow|N=37|Num=073|Name=Gates|Seat=Gatesville|Data2=1779|Data4=[[Horatio Gates]] <small>(1727–1806)</small>, an American general during the [[American Revolutionary War|Revolution]] at the [[Battle of Saratoga]]|Area=346|Population=12043|Data3=Chowan County, Hertford County, and Perquimans County}}
+
+{{Countyrow|N=37|Num=075|Name=Graham|Seat=Robbinsville|Data2=1872|Data4=[[William Alexander Graham]] <small>(1804–1875)</small>, a [[United States Senate|United States Senator]], [[governor of North Carolina]], and [[United States Secretary of the Navy]]|Area=302|Population=8802|Data3=Cherokee County}}
+
+{{Countyrow|N=37|Num=077|Name=Granville|Seat=Oxford|Data2=1746|Data4=[[John Carteret, 2nd Earl Granville]] <small>(1690–1763)</small>, who inherited one-eighth share in the [[Province of Carolina]] through his great-grandfather [[George Carteret]]|Area=537|Population=59976|Data3=Edgecombe County}}
+
+{{Countyrow|N=37|Num=079|Name=Greene|Seat=Snow Hill|Data2=1799|Data4=[[Nathanael Greene]] <small>(1742–1786)</small>, a [[major general]] of the [[Continental Army]] in the [[American Revolutionary War]]|Area=266|Population=21556|Data3=[[Dobbs County, North Carolina|Dobbs County]]<br><small>Originally named Glasgow County</small>}}
+
+{{Countyrow|N=37|Num=081|Name=Guilford|Seat=Greensboro|Data2=1771|Data4=[[Francis North, 1st Earl of Guilford]] <small>(1704–1790)</small>, a British politician and father of [[Prime Minister of the United Kingdom|Prime Minister of Great Britain]] [[Frederick North, Lord North|Frederick North]]|Area=658|Population=495279|Data3=Orange County and Rowan County}}
+
+{{Countyrow|N=37|Num=083|Name=Halifax|Seat=Halifax|Data2=1758|Data4=[[George Montagu-Dunk, 2nd Earl of Halifax]] <small>(1716–1771)</small>, a [[Kingdom of Great Britain|British]] statesman and [[Secretary of State for Business, Enterprise and Regulatory Reform|President]] of the [[Board of Trade]]|Area=731|Population=54173|Data3=Edgecombe County}}
+
+{{Countyrow|N=37|Num=085|Name=Harnett|Seat=Lillington|Data2=1855|Data4=[[Cornelius Harnett]] <small>(1723–1781)</small>, an [[American Revolution]]ary and delegate in the [[Continental Congress]]|Area=601|Population=119256|Data3=Cumberland County}}
+
+{{Countyrow|N=37|Num=087|Name=Haywood|Seat=Waynesville|Data2=1808|Data4=[[John Haywood (politician)|John Haywood]] <small>(1754–1827)</small>, a [[North Carolina State Treasurer]]|Area=555|Population=58855|Data3=Buncombe County}}
+
+{{Countyrow|N=37|Num=089|Name=Henderson|Seat=Hendersonville|Data2=1838|Data4=[[Leonard Henderson]] <small>(1772–1833)</small>, Chief Justice of the [[North Carolina Supreme Court]]|Area=375|Population=107927|Data3=Buncombe County}}
+
+{{Countyrow|N=37|Num=091|Name=Hertford|Seat=Winton|Data2=1759|Data4=[[Francis Seymour-Conway, 1st Marquess of Hertford]] <small>(1718–1794)</small>, who was [[Lord of the Bedchamber]] to [[George II of Great Britain|George II]] and [[George III of the United Kingdom|George III]]|Area=360|Population=24433|Data3=Bertie County, Chowan County, and Northampton County}}
+
+{{Countyrow|N=37|Num=093|Name=Hoke|Seat=Raeford|Data2=1911|Data4=[[Robert Hoke]] <small>(1837–1912)</small>, a [[Confederate States Army|Confederate]] general during the [[American Civil War]]|Area=392|Population=49272|Data3=Cumberland County and Robeson County}}
+
+{{Countyrow|N=37|Num=095|Name=Hyde|Seat=Swan Quarter|Data2=1712|Data4=[[Edward Hyde (c. 1650-1712)|Edward Hyde]] <small>(c. 1650–1712)</small>, a [[List of colonial governors of North Carolina|governor]] of [[Province of Carolina|colonial North Carolina]]|Area=1424|Population=5822|Data3=[[Bath County, North Carolina|Bath County]]}}
+
+{{Countyrow|N=37|Num=097|Name=Iredell|Seat=Statesville|Data2=1788|Data4=[[James Iredell]] <small>(1751–1799)</small>, a [[comptroller]] at the port of [[Edenton, North Carolina|Edenton]] and one of the original [[Associate Justice of the Supreme Court of the United States|justices]] of the [[Supreme Court of the United States]]|Area=597|Population=161202|Data3=Rowan County}}
+
+{{Countyrow|N=37|Num=099|Name=Jackson|Seat=Sylva|Data2=1851|Data4=[[Andrew Jackson]] <small>(1767–1845)</small>, the 7th President of the United States|Area=494|Population=40285|Data3=Haywood County and Macon County}}
+
+{{Countyrow|N=37|Num=101|Name=Johnston|Seat=Smithfield|Data2=1746|Data4=[[Gabriel Johnston]] <small>(1699–1752)</small>, a [[List of colonial governors of North Carolina|governor]] of [[Province of North Carolina|colonial North Carolina]]|Area=796|Population=172595|Data3=Craven County}}
+
+{{Countyrow|N=37|Num=103|Name=Jones|Seat=Trenton|Data2=1778|Data4=[[Willie Jones (statesman)|Willie Jones]] <small>(1740–1801)</small>, opposed the [[ratification]] of the [[United States Constitution]] and declined an invitation to the [[Philadelphia Convention|Constitutional Convention]]|Area=473|Population=10020|Data3=Craven County}}
+
+{{Countyrow|N=37|Num=105|Name=Lee|Seat=Sanford|Data2=1907|Data4=[[Robert E. Lee]] <small>(1807–1870)</small>, a career [[United States Army|United States Army officer]] and general of the [[Confederate States of America|Confederate]] [[Confederate States Army|forces]] during the [[American Civil War]]|Area=259|Population=58752|Data3=Chatham County and Moore County}}
+
+{{Countyrow|N=37|Num=107|Name=Lenoir|Seat=Kinston|Data2=1791|Data4=[[William Lenoir (general)|William Lenoir]] <small>(1751–1839)</small>, a captain in the [[American Revolutionary War]] who took part in the [[Battle of Kings Mountain]]| |Area=402|Population=59339|Data3=[[Dobbs County, North Carolina|Dobbs County]]}}
+
+{{Countyrow|N=37|Num=109|Name=Lincoln|Seat=Lincolnton|Data2=1779|Data4=[[Benjamin Lincoln]] <small>(1733–1810)</small>, a [[major general]] during the [[American Revolutionary War]] who participated in the [[Siege of Yorktown]]|Area=307|Population=78932|Data3=[[Tryon County, North Carolina|Tryon County]]}}
+
+{{Countyrow|N=37|Num=111|Name=McDowell|Seat=Marion|Data2=1842|Data4=[[Joseph McDowell, Jr.|Joseph McDowell]] <small>(1756–1801)</small>, a soldier in the [[American Revolutionary War]] who took part in the [[Battle of Kings Mountain]]|Area=446|Population=45104|Data3=Burke County and Rutherford County}}
+
+{{Countyrow|N=37|Num=113|Name=Macon|Seat=Franklin|Data2=1828|Data4=[[Nathaniel Macon]] <small>(1758–1837)</small>, a member and [[Speaker of the United States House of Representatives|Speaker]] of the [[United States House of Representatives]]|Area=519|Population=34074|Data3=Haywood County}}
+
+{{Countyrow|N=37|Num=115|Name=Madison|Seat=Marshall|Data2=1851|Data4=[[James Madison]] <small>(1751–1836)</small>, the 4th President of the United States|Area=452|Population=20816|Data3=Buncombe County and Yancey County}}
+
+{{Countyrow|N=37|Num=117|Name=Martin|Seat=Williamston|Data2=1774|Data4=[[Josiah Martin]] <small>(1737–1786)</small>, the last [[List of colonial governors of North Carolina|governor]] of [[Province of North Carolina|colonial North Carolina]]|Area=461|Population=24180|Data3=Halifax County and Tyrrell County}}
+
+{{Countyrow|N=37|Num=119|Name=Mecklenburg|Seat=Charlotte|Data2=1762|Data4=[[Charlotte of Mecklenburg-Strelitz]] <small>(1744–1818)</small>, the [[queen consort]] of [[George III of the United Kingdom]]|Area=546|Population=944373|Data3=Anson County}}
+
+{{Countyrow|N=37|Num=121|Name=Mitchell|Seat=Bakersville|Data2=1861|Data4=[[Elisha Mitchell]] <small>(1793–1857)</small>, a professor at the [[University of North Carolina at Chapel Hill|University of North Carolina]] who measured the height of [[Mount Mitchell (North Carolina)|Mount Mitchell]]|Area=222|Population=15445|Data3=Burke County, Caldwell County, McDowell County, Watauga County, and Yancey County}}
+
+{{Countyrow|N=37|Num=123|Name=Montgomery|Seat=Troy|Data2=1779|Data4=[[Richard Montgomery]] <small>(1738–1775)</small>, a [[major general]] during the [[American Revolutionary War|Revolutionary War]] who was killed at the [[Battle of Quebec (1775)|Battle of Quebec]]|Area=502|Population=27667|Data3=Anson County}}
+
+{{Countyrow|N=37|Num=125|Name=Moore|Seat=Carthage|Data2=1784|Data4=[[Alfred Moore]] <small>(1755–1810)</small>, a captain in the [[American Revolutionary War|Revolutionary War]] and [[Associate Justice of the Supreme Court of the United States|justice]] of the [[Supreme Court of the United States]]|Area=706|Population=89352|Data3=Cumberland County}}
+
+{{Countyrow|N=37|Num=127|Name=Nash|Seat=Nashville|Data2=1777|Data4=[[Francis Nash]] <small>(1742–1777)</small>, a brigadier general in the [[American Revolutionary War|Revolutionary War]] who was mortally wounded at the [[Battle of Germantown]]|Area=543|Population=96116|Data3=Edgecombe County}}
+
+{{Countyrow|N=37|Num=129|Name=New Hanover|Seat=Wilmington|Data2=1729|Data4=The royal family of England, members of the [[House of Hanover]]|Area=328|Population=206189|Data3=Craven County}}
+
+{{Countyrow|N=37|Num=131|Name=Northampton|Seat=Jackson|Data2=1741|Data4=[[James Compton, 5th Earl of Northampton]] <small>(1687–1754)</small>, a British [[Peerage|peer]] and politician|Area=551|Population=21893|Data3=Bertie County}}
+
+{{Countyrow|N=37|Num=133|Name=Onslow|Seat=Jacksonville|Data2=1734|Data4=[[Arthur Onslow]] <small>(1691–1768)</small>, [[Speaker of the British House of Commons|Speaker]] of the [[British House of Commons]]|Area=909|Population=179716|Data3=New Hanover County}}
+
+{{Countyrow|N=37|Num=135|Name=Orange|Seat=Hillsborough|Data2=1752|Data4=Prince [[William V, Prince of Orange|William V]] of [[Principality of Orange|Orange]] <small>(1748–1806)</small>, the last [[Stadtholder]] of the [[Dutch Republic]]|Area=401|Population=135755|Data3=Bladen County, Granville County, and Johnston County}}
+
+{{Countyrow|N=37|Num=137|Name=Pamlico|Seat=Bayboro|Data2=1872|Data4=[[Pamlico Sound]] and the [[Pamlico]] Indian tribe|Area=566|Population=13197|Data3=Beaufort County and Craven County}}
+
+{{Countyrow|N=37|Num=139|Name=Pasquotank|Seat=Elizabeth City|Data2=1668|Data4=Derived from the Indian word "pasketanki" which meant "where the current of the stream divides or forks"|Area=289|Population=40696|Data3=[[Albemarle County, North Carolina|Albemarle County]]}}
+
+{{Countyrow|N=37|Num=141|Name=Pender|Seat=Burgaw|Data2=1875|Data4=[[William Dorsey Pender]] <small>(1834–1863)</small>, [[Confederate States of America|Confederate]] soldier who was mortally wounded at the [[Battle of Gettysburg]] of the [[American Civil War]]|Area=933|Population=53399|Data3=New Hanover County}}
+
+{{Countyrow|N=37|Num=143|Name=Perquimans|Seat=Hertford|Data2=1668|Data4=The Indian word "perquimans" means "land of beautiful women" and was coined by a sect of the Yeopim tribe, later becoming the 'Perquiman'|Area=329|Population=13487|Data3=[[Albemarle County, North Carolina|Albemarle County]]}}
+
+{{Countyrow|N=37|Num=145|Name=Person|Seat=Roxboro|Data2=1791|Data4=[[Thomas Person]], an [[American Revolutionary War]] patriot|Area=404|Population=39637|Data3=Caswell County}}
+
+{{Countyrow|N=37|Num=147|Name=Pitt|Seat=Greenville|Data2=1760|Data4=[[William Pitt, 1st Earl of Chatham]] <small>(1708–1778)</small>, Secretary of State during the [[French and Indian War]] and was later [[Prime Minister of the United Kingdom|Prime Minister of Great Britain]]|Area=655|Population=171134|Data3=Beaufort County}}
+
+{{Countyrow|N=37|Num=149|Name=Polk|Seat=Columbus|Data2=1855|Data4=[[William Polk (colonel)|William Polk]] <small>(1758–1834)</small>, officer in the [[American Revolutionary War]] and first president of the State Bank of North Carolina|Area=239|Population=20256|Data3=Henderson County and Rutherford County}}
+
+{{Countyrow|N=37|Num=151|Name=Randolph|Seat=Asheboro|Data2=1779|Data4=[[Peyton Randolph]] <small>(c. 1721–1755)</small>, the first [[President of the Continental Congress|President]] of the [[Continental Congress]]|Area=790|Population=142358|Data3=Guilford County}}
+
+{{Countyrow|N=37|Num=153|Name=Richmond|Seat=Rockingham|Data2=1779|Data4=[[Charles Lennox, 3rd Duke of Richmond]] <small>(1735–1806)</small>, a firm supporter of the American [[Thirteen Colonies|colonists]] and advocated removal of [[Kingdom of Great Britain|British]] troops|Area=480|Population=46611|Data3=Anson County}}
+
+{{Countyrow|N=37|Num=155|Name=Robeson|Seat=Lumberton|Data2=1787|Data4=Thomas Robeson, an officer in the [[American Revolutionary War]]|Area=951|Population=135517|Data3=Bladen County}}
+
+{{Countyrow|N=37|Num=157|Name=Rockingham|Seat=Wentworth|Data2=1785|Data4=[[Charles Watson-Wentworth, 2nd Marquess of Rockingham]] <small>(1730–1782)</small>, a [[Kingdom of Great Britain|British]] statesmen and two-time [[Prime Minister of the United Kingdom|Prime Minister of Great Britain]]|Area=572|Population=93329|Data3=Guilford County}}
+
+{{Countyrow|N=37|Num=159|Name=Rowan|Seat=Salisbury|Data2=1753|Data4=[[Matthew Rowan]] <small>(d. 1769)</small>, was the acting [[List of colonial governors of North Carolina|Governor]] of [[Province of North Carolina|colonial North Carolina]] following the death of Governor [[Nathaniel Rice]]|Area=524|Population=138019|Data3=Anson County}}
+
+{{Countyrow|N=37|Num=161|Name=Rutherford|Seat=Rutherfordton|Data2=1779|Data4=[[Griffith Rutherford]] <small>(c. 1721–1805)</small>, an officer in the [[American Revolutionary War]] and a political leader in [[North Carolina]]|Area=566|Population=67538|Data3=[[Tryon County, North Carolina|Tryon County]]}}
+
+{{Countyrow|N=37|Num=163|Name=Sampson|Seat=Clinton|Data2=1784|Data4=[[John Sampson (North Carolina politician)|John Sampson]], a member of [[Josiah Martin]]'s council|Area=947|Population=63734|Data3=Duplin County}}
+
+{{Countyrow|N=37|Num=165|Name=Scotland|Seat=Laurinburg|Data2=1899|Data4=The country [[Scotland]], part of the United Kingdom|Area=321|Population=35861|Data3=Richmond County}}
+
+{{Countyrow|N=37|Num=167|Name=Stanly|Seat=Albemarle|Data2=1841|Data4=[[John Stanly]] <small>(1774–1834)</small>, a [[United States House of Representatives|United States Congressman]] and [[Speaker of the North Carolina House of Representatives|Speaker of the North Carolina House of Commons]]|Area=404|Population=60636|Data3=Montgomery County}}
+
+{{Countyrow|N=37|Num=169|Name=Stokes|Seat=Danbury|Data2=1789|Data4=[[John Stokes (North Carolina)|John Stokes]], a soldier of the [[American Revolution|Revolution]] who was seriously wounded at the [[Waxhaw massacre]]|Area=456|Population=47242|Data3=Surry County}}
+
+{{Countyrow|N=37|Num=171|Name=Surry|Seat=Dobson|Data2=1771|Data4=The county of [[Surrey]] in England, birthplace of then governor [[William Tryon]]|Area=538|Population=73714|Data3=Rowan County}}
+
+{{Countyrow|N=37|Num=173|Name=Swain|Seat=Bryson City|Data2=1871|Data4=[[David Lowry Swain]] <small>(1801–1868)</small>, a [[governor of North Carolina]] and president of the [[University of North Carolina at Chapel Hill|University of North Carolina]]|Area=541|Population=14043|Data3=Jackson County and Macon County}}
+
+{{Countyrow|N=37|Num=175|Name=Transylvania|Seat=Brevard|Data2=1861|Data4=Derived from the [[Latin]] words, [[wikt:trans-|trans]] meaning ''across'' and [[wikt:silva#Latin|sylva]] meaning ''woods''|Area=381|Population=32820|Data3=Henderson County and Jackson County}}
+
+{{Countyrow|N=37|Num=177|Name=Tyrrell|Seat=Columbia|Data2=1729|Data4=[[Sir John Tyrrell|John Tyrrell]], at one time was a [[Lords Proprietor]]|Area=600|Population=4364|Data3=Chowan County, Currituck County, and Pasquotank County}}
+
+{{Countyrow|N=37|Num=179|Name=Union|Seat=Monroe|Data2=1842|Data4=Created as a compromise after a dispute between local [[Whig Party (United States)|Whigs]] and [[Democratic Party (United States)|Democrats]] as to whether it should be named Clay or Jackson county|Area=640|Population=205463|Data3=Anson County and Mecklenburg County}}
+
+{{Countyrow|N=37|Num=181|Name=Vance|Seat=Henderson|Data2=1881|Data4=[[Zebulon Baird Vance]] <small>(1830–1894)</small>, a [[Confederate States of America|Confederate]] military officer in the [[American Civil War]], twice [[governor of North Carolina]], and [[United States Senate|United States Senator]]|Area=270|Population=45307|Data3=Franklin County, Granville County, and Warren County}}
+
+{{Countyrow|N=37|Num=183|Name=Wake|Seat=Raleigh|Data2=1771|Data4=Margaret Wake, the wife of [[Kingdom of Great Britain|British]] [[Thirteen Colonies|colonial]] governor [[William Tryon]]|Area=857|Population=929780|Data3=Cumberland County, Johnston County, and Orange County}}
+
+{{Countyrow|N=37|Num=185|Name=Warren|Seat=Warrenton|Data2=1779|Data4=[[Joseph Warren]] <small>(1741–1775)</small>, a [[Patriot (American Revolution)|Patriot]] and volunteer [[Private (rank)|private]] who was mortally wounded at the [[Battle of Bunker Hill]]|Area=444|Population=20861|Data3=[[Bute County, North Carolina|Bute County]]}}
+
+{{Countyrow|N=37|Num=187|Name=Washington|Seat=Plymouth|Data2=1799|Data4=[[George Washington]] <small>(1732–1799)</small>, the 1st President of the United States|Area=424|Population=12973|Data3=Tyrrell County}}
+
+{{Countyrow|N=37|Num=189|Name=Watauga|Seat=Boone|Data2=1849|Data4=The [[Watauga River]], which came from an Indian word meaning "beautiful water"|Area=313|Population=51333|Data3=Ashe County, Caldwell County, Wilkes County, and Yancey County}}
+
+{{Countyrow|N=37|Num=191|Name=Wayne|Seat=Goldsboro|Data2=1779|Data4=[[Anthony Wayne]] <small>(1745–1796)</small>, a general in the [[American Revolutionary War]]|Area=557|Population=123697|Data3=[[Dobbs County, North Carolina|Dobbs County]]}}
+
+{{Countyrow|N=37|Num=193|Name=Wilkes|Seat=Wilkesboro|Data2=1777|Data4=[[John Wilkes]] <small>(1725–1797)</small>, an English [[Radicalism (historical)|radical]], journalist and politician|Area=760|Population=68984|Data3=Surry County}}
+
+{{Countyrow|N=37|Num=195|Name=Wilson|Seat=Wilson|Data2=1855|Data4=Louis D. Wilson, a state legislator from Edgecombe County who died of fever at [[Veracruz, Veracruz|Veracruz]] during the [[Mexican–American War]]|Area=374|Population=81452|Data3=Edgecombe County, Johnston County, Nash County, and Wayne County}}
+
+{{Countyrow|N=37|Num=197|Name=Yadkin|Seat=Yadkinville|Data2=1850|Data4=The [[Yadkin River]]|Area=337|Population=38279|Data3=Surry County}}
+
+{{Countyrow|N=37|Num=199|Name=Yancey|Seat=Burnsville|Data2=1833|Data4=[[Bartlett Yancey]] <small>(1785–1828)</small>, a [[United States House of Representatives|United States Congressman]], [[President Pro Tempore of the North Carolina Senate|Speaker of the North Carolina Senate]], and early advocate for the North Carolina Public School System|Area=313|Population=17701|Data3=Buncombe County and Burke County}}
+|}

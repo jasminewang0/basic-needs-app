@@ -28,9 +28,9 @@ class Database:
         })
 
     # returns (dictionary?) representation of an entry
-    def read(self, agency_ID):
-        agency_ref = self.ref.child(agency_ID)
-        return agency_ref.get()
+    def read(self, category):
+        snapshot = self.ref.order_by_child('category').equal_to(category).get()
+        return snapshot
 
     # update an existing entry. pass in agency_ID and a dictionary of fields and values to update with
     def update(self, agency_ID, fields):
@@ -61,7 +61,7 @@ class Database:
 #     }
 # })
 
-# example = Database()
+example = Database()
 # example.create(
 #             'nc-childcare-network',
 #             'Childcare/Youth Services',
@@ -78,3 +78,5 @@ class Database:
 # print(entry)
 
 # example.destroy('nc-childcare-network')
+result = example.read('medical')
+print(result)
