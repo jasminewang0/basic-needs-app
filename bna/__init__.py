@@ -32,6 +32,7 @@ def create_app(test_config=None):
 
     @app.route('/childcare')
     def childcare():
+        res = d.read('childcare')
         return render_template('results.html', name="Childcare/Youth Services", dat=res)
 
     @app.route('/clothing')
@@ -41,46 +42,57 @@ def create_app(test_config=None):
 
     @app.route('/education')
     def education():
+        res = d.read('education')
         return render_template('results.html', name="Education/Training", dat=res)
 
     @app.route('/employment')
     def employment():
+        res = d.read('employment')
         return render_template('results.html', name="Employment", dat=res)
 
     @app.route('/finaid')
     def financial_assistance():
+        res = d.read('financial_assistance')
         return render_template('results.html', name="Financial Assistance", dat=res)
 
     @app.route('/food')
     def food():
+        res = d.read('food')
         return render_template('results.html', name="Food/Nutrition Assistance", dat=res)
 
     @app.route('/handicapped')
     def handicapped():
+        res = d.read('handicapped')
         return redner_template('results.html', name="Handicapped/Disabled Services")
 
     @app.route('/housing')
     def housing():
+        res = d.read('housing')
         return render_template('results.html', name="Housing/Home Ownership", dat=res)
 
     @app.route('/legal')
     def legal():
+        res = d.read('legal')
         return render_template('results.html', name="Legal Aid", dat=res)
 
     @app.route('/medical')
     def medical():
+        res = d.read('medical')
         return render_template('results.html', name="Medical Care", dat=res)
 
     @app.route('/business')
     def business():
+        res = d.read('business')
         return render_template('results.html', name="Starting a Small Business", dat=res)
 
     @app.route('/transportation')
     def transportation():
+        res = d.read('transportation')
         return render_template('results.html', name="Transportation", dat=res)
 
     @app.route('/miscellaneous')
     def miscellaneous():
+        res = d.read('miscellaneous')
         return render_template('results.html', name="Miscellaneous/Other Services", dat=res)
 
     return app
