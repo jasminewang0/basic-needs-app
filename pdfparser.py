@@ -1,22 +1,39 @@
 
-# importing required modules 
-import PyPDF2 
-  
-# creating a pdf file object 
-pdfFileObj = open('Wake_County_resources_2017.pdf', 'rb') 
-  
-# creating a pdf reader object 
-pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
+# importing required modules
+import PyPDF2
+import re
+
+class Category:
+
+    def __init__(self, name, raw_data):
+        self.name = name
+        self.raw_data = raw_data
+        self.agencies = []
+
+class Agency:
+    def __init__(self, name):
+        self.name = name
+        self.address = ''
+        self.phone = ''
+        self.website = ''
+        self.desc = ''
+
+# creating a pdf file object
+pdfFileObj = open('Wake_County_resources_2017.pdf', 'rb')
+
+# creating a pdf reader object
+pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 
 numPages = pdfReader.numPages
 pdfText = ""
-  
-for i in range(1, numPages):
-    # creating a page object 
-    pageObj = pdfReader.getPage(i) 
 
-    # extracting text from page 
+for i in range(1, numPages):
+    # creating a page object
+    pageObj = pdfReader.getPage(i)
+
+    # extracting text from page
     pdfText += pageObj.extractText()
+
 
 # Taking out the header
 pdfText = pdfText.split("Childcare/Youth Services\n")[1]
@@ -74,12 +91,32 @@ pdfText = pdfText.split("Miscellaneous/Other Services \n")[1] # rest of text
 miscellaneous = pdfText
 # print(miscellaneous)
 
-categories = [childcare, clothing, education, employment, financial,
-              food, handicapped, housing, legal, medical, business,
-              transportation]
+categories = [Category('childcare',childcare),
+              Category('clothing', clothing),
+              Category('education', education),
+              Category('employment',employment),
+              Category('financial', financial),
+              Category('food', food),
+              Category('handicapped', handicapped),
+              Category('housing', housing),
+              Category('legal',legal),
+              Category('medical', medical),
+              Category('business', business),
+              Category('transportation', transportation),
+              Category('miscellaneous', miscellaneous)
+             ]
 
-for category in categories:
-    print(category)
+for cat in categories:
+    dat = ' '.join(cat.raw_data.split())
+    agencies = re.findall(r'(?<=ress:)[^:]+',dat)
+    cat.agencies = [Agency(' '.join(ag.split()[:-1])) for ag in agencies]
 
-# closing the pdf file object 
+for cat in categories:
+    print cat.name
+    for ag in cat.agencies:
+        print ag.name
+
+
+
+# closing the pdf file object
 pdfFileObj.close()
